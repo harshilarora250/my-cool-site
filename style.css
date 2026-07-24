@@ -13,3 +13,47 @@ body {
     height: 120px;
     width: 600px;
 }
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-family: 'Black Ops One', cursive;
+    text-decoration: none;
+    color: #fff;
+    background-color: #6A0DAD;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.title {
+    font-family: 'Black Ops One', cursive;
+    font-size: 36px;
+    color: #6A0DAD;
+    text-align: center;
+}
+
+.subtitle {
+    font-family: 'Google Sans Flex', sans-serif;
+    font-size: 24px;
+    color: #6A0DAD;
+    text-align: center;
+}
+
+.author {
+    font-family: 'Google Sans Flex', sans-serif;
+    font-size: 18px;
+    color: #6A0DAD;
+    text-align: center;
+}
+
+.img-calc {
+    height: 375px;
+    width: 640px;
+}
