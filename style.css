@@ -1,0 +1,15 @@
+body {
+    background-color: #CF99ED;
+}
+
+.welcome-box {
+    font-family: 'Black Ops One', cursive;
+    height: 120px;
+    width: 600px;
+}
+
+.interesting-box {
+    font-family: 'noto sans egyptian hieroglyphs', sans-serif;
+    height: 120px;
+    width: 600px;
+}
