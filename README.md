@@ -3,6 +3,7 @@ Welcome to **my cool site / blog** for Stardance
 
 ## What the site looks like
 
+![Example Screenshot](assets/examplescreenshot.png)
 
 ## Avalaible files
 The avalaible files/folders are:
