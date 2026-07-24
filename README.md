@@ -11,6 +11,7 @@ The avalaible files/folders are:
 assets/
 index.html
 blog1.html
+404.html (just enter anything after / to see what it looks like)
 style.css
 README.md(this)
 LICENSE
