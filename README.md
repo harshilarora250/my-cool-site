@@ -1,5 +1,5 @@
 # my-cool-site
-Welcome to my cool site for Stardance
+Welcome to **my cool site / blog** for Stardance
 
 ## What the site looks like
 
