@@ -1,6 +1,9 @@
 # my-cool-site
 Welcome to my cool site for Stardance
 
+## What the site looks like
+
+
 ## Avalaible files
 The avalaible files/folders are:
 ```
