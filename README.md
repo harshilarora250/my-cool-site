@@ -20,7 +20,7 @@ How someone might fork this project you might ask? Just do this:
 ```
 git clone https://github.com/harshilarora250/my-cool-site/
 cd my-cool-site
-nano index.html (you can now change the code easily)
+nano index.html #(you can now change the code easily)
 ```
 To launch the website for yourself after making your personal changes, first push the updated folder to a github repo of your own. Use the free plan on vercel to host the website for free
 
