@@ -25,7 +25,7 @@ nano index.html (you can now change the code easily)
 To launch the website for yourself after making your personal changes, first push the updated folder to a github repo of your own. Use the free plan on vercel to host the website for free
 
 ## What it does
-It rickrolls you, and it's like a blog. My Cool Blog (that sounds good -eh?)
+It rickrolls you, and it's my blog. My Cool Blog (that sounds good -eh?)
 It's a **blog**
 
 ## AI Usage
